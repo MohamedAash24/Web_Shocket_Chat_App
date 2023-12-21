@@ -1,0 +1,7 @@
+com\ntz\websocket\chat\MessageType.class
+com\ntz\websocket\config\WebSocketConfig.class
+com\ntz\websocket\chat\ChatController.class
+com\ntz\websocket\WebSocketApplication.class
+com\ntz\websocket\chat\ChatMessage.class
+com\ntz\websocket\chat\ChatMessage$ChatMessageBuilder.class
+com\ntz\websocket\config\WebSocketEventListener.class
